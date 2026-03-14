@@ -132,8 +132,6 @@ demo-dao-jdbc/
 
 ## 🗃️ Estrutura do Banco de Dados
 
-> Cole abaixo o script SQL de criação das tabelas quando disponível.
-
 ```sql
 CREATE TABLE department (
   Id int(11) NOT NULL AUTO_INCREMENT,
